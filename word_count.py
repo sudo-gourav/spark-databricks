@@ -2,7 +2,7 @@
 from pyspark import SparkConf,SparkContext
 import re
 # creating a configuration object
-config = SparkConf().setMaster("local").setAppName("Weather")
+config = SparkConf().setMaster("local").setAppName("word_count")
 
 # creating a sparkcontext object
 sc = SparkContext(conf = config)
