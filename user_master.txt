@@ -1,0 +1,8 @@
+bin0001,Dennis
+bin0010,Rasmus
+bin0011,Kathleen
+bin0100,Bjarne
+bin0101,Larry
+bin0110,Guido
+bin0111,Ada
+bin1000,James
